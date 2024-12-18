@@ -36,7 +36,6 @@
     top: 60%;
 
 }
-
 .spans h1::after{
     content: "";
     width: 80px;
